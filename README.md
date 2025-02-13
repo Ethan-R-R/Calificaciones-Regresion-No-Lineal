@@ -13,4 +13,4 @@ actividad 48 horas antes del domingo a medianoche.
 
 [Reporte en .ipynb](https://github.com/Ethan-R-R/Calificaciones-Regresion-No-Lineal/blob/9730db39952326b5811f3d85264571aaa2441cd1/RegresionNoLinealCalificaciones.ipynb)
 
-[Reporte en HTML(https://github.com/Ethan-R-R/Calificaciones-Regresion-No-Lineal/blob/9730db39952326b5811f3d85264571aaa2441cd1/RegrsionNoLinealCalifcaciones.html)
+[Reporte en HTML](https://github.com/Ethan-R-R/Calificaciones-Regresion-No-Lineal/blob/9730db39952326b5811f3d85264571aaa2441cd1/RegrsionNoLinealCalifcaciones.html)
